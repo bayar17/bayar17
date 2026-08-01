@@ -16,8 +16,8 @@ I write low-level systems code — kernels, memory management, device models, fi
 
 ### Elsewhere
 
-- GitHub: [@bayar17](https://github.com/bayar17)
-- Reddit: [@seenhokage](https://www.reddit.com/user/seenhokage)
+- GitHub: ![@bayar17](https://github.com/bayar17)
+- Reddit: ![@seenhokage](https://www.reddit.com/user/seenhokage)
 
 <p align="center">
   <sub>Two kernels going at once is a reasonable number of kernels.</sub>
