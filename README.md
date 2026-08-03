@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Kiyanoush!</h1>
 
 <p align="center">
-  Kiyanoush (DEHSHAT) Bayar &middot; systems software developer
+  Kiyanoush (DEHSHAT) Bayar &middot; a junior C developer
 </p>
 
 And this is my markdown page. Nothing special written, just a bunch of personal repos for people to see.
